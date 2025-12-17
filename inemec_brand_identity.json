@@ -1,0 +1,364 @@
+{
+  "brand": {
+    "name": "INEMEC",
+    "fullName": "Ingeniería ElectroMecánica - Inemec Ltda.",
+    "tagline": "Ingeniería ElectroMecánica",
+    "description": "Empresa especializada en mantenimiento de infraestructuras en la industria petroquímica, con énfasis en estructuras tubulares, construcción y mantenimiento.",
+    "manual": {
+      "version": "Manual de Identidad Visual",
+      "designer": "GALANÉS PUBLICIDAD S.A.S.",
+      "year": "2012",
+      "location": "Bucaramanga"
+    }
+  },
+
+  "logo": {
+    "symbol": {
+      "description": "Ideograma en el cual las primeras tres letras 'iem' se aprecian en minúsculas. El símbolo representa líneas de tubería interconectadas, evocando las estructuras tubulares que supervisa la compañía en la industria petroquímica.",
+      "concept": "El símbolo evoca el mantenimiento de múltiples estructuras, plantas e instalaciones de la industria petroquímica. Representa el cambio de partes o piezas de una estructura en un período de tiempo para su adecuado funcionamiento.",
+      "structure": "La intersección en blanco de la letra 'e' con forma cuadrada exactamente igual al punto de la letra 'i', evoca de manera simplificada y rápida la acción de recambio de partes faltantes en una estructura tubular."
+    },
+    "logotype": {
+      "description": "Representación tipográfica de la razón social de la compañía, escrita en mayúscula sostenida: INEMEC",
+      "font": {
+        "family": "Fuente de palo seco (sans-serif)",
+        "weight": "Bold",
+        "width": "Expandida",
+        "contrast": "Mínimo",
+        "characteristics": "Astas de buen espesor con terminaciones redondeadas para prevenir agresividad. Distancia entre caracteres ajustada para que la contracción se enmarque en un solo bloque compacto, transmitiendo solidez."
+      }
+    },
+    "versions": {
+      "vertical": {
+        "description": "Versión principal de la marca",
+        "structure": "Símbolo arriba, logotipo abajo",
+        "proportions": {
+          "symbol": {
+            "width": "33X",
+            "height": "20X"
+          },
+          "logotype": {
+            "width": "37X",
+            "height": "6X"
+          },
+          "total": {
+            "width": "37X",
+            "height": "29X"
+          }
+        }
+      },
+      "horizontal": {
+        "description": "Versión alternativa de la marca",
+        "structure": "Símbolo a la izquierda, logotipo a la derecha, separados por una línea vertical",
+        "proportions": {
+          "width": "60X",
+          "height": "8X"
+        }
+      }
+    },
+    "minimumSize": {
+      "vertical": {
+        "width": "8.3mm",
+        "height": "5.0mm"
+      },
+      "horizontal": {
+        "width": "17.8mm",
+        "height": "5.0mm"
+      }
+    },
+    "clearSpace": {
+      "description": "Área sin interferencias donde ningún elemento condiciona o compite con la lectura del logo",
+      "measurement": "Equivalente a X, donde la altura de la composición es de 8X",
+      "percentage": "12.5% de la altura de la imagen global"
+    }
+  },
+
+  "colors": {
+    "primary": {
+      "red": {
+        "name": "Rojo INEMEC",
+        "description": "Color principal que transmite calor, dinamismo y coraje. Se encuentra dentro de la gama de los colores cálidos y le aporta vitalidad y energía a la marca.",
+        "pantone": "485 C",
+        "rgb": {
+          "r": 213,
+          "g": 43,
+          "b": 30,
+          "hex": "#D52B1E"
+        },
+        "cmyk": {
+          "c": 0,
+          "m": 90,
+          "y": 100,
+          "k": 0
+        },
+        "usage": "Color principal del símbolo 'iem'"
+      },
+      "gray": {
+        "name": "Gris INEMEC",
+        "description": "Color complementario que aporta equilibrio a la imagen y actúa como complemento del rojo en términos de temperatura de color. Su frialdad le imprime sobriedad y elegancia a la composición. Se asocia con independencia y auto-suficiencia.",
+        "pantone": "Cool Gray 8 C",
+        "rgb": {
+          "r": 147,
+          "g": 149,
+          "b": 152,
+          "hex": "#939598"
+        },
+        "cmyk": {
+          "c": 0,
+          "m": 0,
+          "y": 0,
+          "k": 60
+        },
+        "usage": "Color del logotipo 'INEMEC'"
+      }
+    },
+    "grayscale": {
+      "symbol": {
+        "black": "70%"
+      },
+      "logotype": {
+        "black": "40%"
+      }
+    },
+    "backgrounds": {
+      "allowed": {
+        "pastels": {
+          "description": "Fondos de hasta 10% de cyan, hasta 10% de negro, hasta 10% de amarillo o hasta 10% de magenta (sin mezcla)",
+          "colors": ["Rosado claro", "Azul claro", "Amarillo claro"]
+        },
+        "solidColors": {
+          "description": "Se permiten fondos con más del 20% de cyan, magenta, amarillo y negro, siempre usando la versión en negativo",
+          "colors": ["Azul", "Amarillo", "Negro"]
+        },
+        "corporateColors": {
+          "description": "Cuando el color de fondo sea uno de los dos colores corporativos, se empleará la versión en negativo normalizada",
+          "note": "Se permite el uso de fondos degradados suaves, usando los colores corporativos con cierto grado de desaturación"
+        },
+        "photography": {
+          "description": "Sólo se podrá usar la imagen sobre fotografías cuando las tonalidades de color sean uniformes de manera que se pueda emplear la versión en positivo o en negativo sin que se vea afectada la correcta lectura de la marca"
+        }
+      },
+      "forbidden": [
+        "Cambio en la paleta de colores",
+        "Eliminación o modificación de elementos",
+        "Distorsión de elementos",
+        "Uso de degradados en los elementos",
+        "Sombras",
+        "Superposición de elementos",
+        "Inclinación de elementos",
+        "Texturas de fondo",
+        "Rotación de elementos",
+        "Cambio de posición de elementos",
+        "Adición de elementos",
+        "Efectos de volumen"
+      ]
+    }
+  },
+
+  "typography": {
+    "corporate": {
+      "family": "Swis 721 LtCn BT",
+      "variants": [
+        "Swis 721 LtCn BT - Light",
+        "Swis 721 Lt BT - Light"
+      ],
+      "usage": "Tipografía corporativa para todas las aplicaciones: papelería, documentos, presentaciones, material promocional",
+      "characteristics": "Tipografía condensada que mantiene la solidez y modernidad de la marca"
+    }
+  },
+
+  "patterns": {
+    "module": {
+      "description": "Consiste en la repetición con cambio de posición del elemento simbólico de la marca, dentro de una retícula básica",
+      "colors": "Los colores de fondo deben ser los colores corporativos",
+      "transparency": "El color del módulo (símbolo) debe tener un 20% de transparencia con respecto al color de fondo",
+      "effect": "Genera efectos de movimiento y continuidad"
+    }
+  },
+
+  "applications": {
+    "stationery": {
+      "businessCard": {
+        "format": "54mm x 86mm",
+        "printing": "2 tintas cara frontal, 1 tinta cara posterior",
+        "elements": [
+          "Logosímbolo",
+          "Información personal",
+          "Información de contacto",
+          "Sellos de calidad (42mm x 16mm)"
+        ],
+        "font": "Swis 721 LtCn BT"
+      },
+      "letterhead": {
+        "paper": "Propalcote 300 g/m²",
+        "format": "230mm x 120mm",
+        "elements": [
+          "Logosímbolo",
+          "Recurso Inemec Ltda.",
+          "Información de contacto"
+        ],
+        "font": "Swis 721 LtCn BT - Light"
+      },
+      "folders": {
+        "paper": "Propalcote 300 g/m²",
+        "variants": [
+          {
+            "type": "Carpeta estándar",
+            "formatClosed": "230mm x 310mm",
+            "printing": "Policromía",
+            "specialFinish": "Troquelado especial con redondeado de tres esquinas"
+          },
+          {
+            "type": "Carpeta grande",
+            "formatClosed": "230mm x 350mm",
+            "formatOpen": "460mm x 430mm",
+            "printing": "Policromía"
+          }
+        ],
+        "elements": [
+          "Logosímbolo",
+          "Recursos Inemec Ltda.",
+          "Información comercial",
+          "Sellos de calidad"
+        ],
+        "font": "Swis 721 LtCn BT"
+      },
+      "envelopes": {
+        "paper": "Propalcote 200 g/m²",
+        "formats": [
+          "215mm x 260mm",
+          "215mm x 245mm"
+        ],
+        "printing": "Policromía",
+        "specialFinish": "Troquelado especial con redondeado de tres esquinas",
+        "fonts": [
+          "Swis 721 Lt BT - Light",
+          "Swis 721 LtCn BT - Light"
+        ]
+      }
+    },
+    "promotional": {
+      "materials": [
+        "Calendario de Pared",
+        "Calendario de Escritorio",
+        "Programador",
+        "Libreta para Técnicos",
+        "Libreta de Bolsillo",
+        "Cuaderno Tipo Agenda",
+        "Pad Mouse",
+        "Lapicero",
+        "Llavero",
+        "Manillas",
+        "Gorra",
+        "Camisa Tipo Polo"
+      ]
+    },
+    "advertising": {
+      "types": [
+        "Aviso Tipo Directorio",
+        "Aviso Tipo Revista Especializada",
+        "Pendón Institucional"
+      ]
+    }
+  },
+
+  "designPrinciples": {
+    "brand": {
+      "consistency": "Es de vital importancia que los lineamientos de uso de la marca estén bien definidos para evitar que el proceso de construcción de conocimiento que se genera en el entorno de la marca quede al azar.",
+      "control": "Solo definiendo estos lineamientos, la organización tendrá un mayor control sobre la percepción que el entorno tiene de su marca.",
+      "positioning": "El uso apropiado de la marca gráfica en todas las piezas de comunicación es fundamental para crear una imagen fuerte y duradera."
+    },
+    "symbol": {
+      "meaning": "El símbolo representa no sólo las tres iniciales de la razón social de la compañía (Ingeniería ElectroMecánica), sino la actividad de mantenimiento que realiza en muchos de sus proyectos.",
+      "maintenance": "El concepto de mantenimiento tiene como referencia más relevante el cambio de partes o piezas de una estructura en un período de tiempo, para su adecuado funcionamiento."
+    },
+    "colors": {
+      "red": "Transmite calor, dinamismo y coraje. Aporta vitalidad y energía",
+      "gray": "Aporta equilibrio, independencia y auto-suficiencia. Imprime sobriedad y elegancia"
+    },
+    "prohibitions": [
+      "Nunca comprometer la imagen para adaptarse a un determinado diseño o sistema de impresión",
+      "La presentación de la imagen global debe ser monitoreada cuidadosamente",
+      "Su uso incorrecto es negativo para la identidad visual de Inemec Ltda"
+    ]
+  },
+
+  "webAndDigital": {
+    "recommendations": {
+      "logoUsage": "Utilizar versiones del logo con fondo transparente (PNG) para máxima versatilidad",
+      "colorProfile": "RGB para uso en pantallas",
+      "minimumSize": "Respetar tamaños mínimos para garantizar legibilidad en dispositivos móviles",
+      "backgrounds": "Preferir fondos claros o los colores corporativos con el logo en su versión adecuada"
+    },
+    "accessibility": {
+      "contrast": "Asegurar contraste suficiente entre el logo y el fondo para cumplir con estándares WCAG",
+      "alternativeText": "Siempre incluir texto alternativo descriptivo para lectores de pantalla"
+    }
+  },
+
+  "uiKitSuggestions": {
+    "buttons": {
+      "primary": {
+        "background": "#D52B1E",
+        "text": "#FFFFFF",
+        "hover": "#B22318",
+        "borderRadius": "8px"
+      },
+      "secondary": {
+        "background": "#939598",
+        "text": "#FFFFFF",
+        "hover": "#75767A",
+        "borderRadius": "8px"
+      }
+    },
+    "headers": {
+      "background": "#D52B1E",
+      "text": "#FFFFFF",
+      "accent": "#939598"
+    },
+    "cards": {
+      "background": "#FFFFFF",
+      "border": "#939598",
+      "shadow": "0 2px 8px rgba(147, 149, 152, 0.15)",
+      "borderRadius": "12px"
+    },
+    "badges": {
+      "success": {
+        "background": "#D52B1E",
+        "text": "#FFFFFF"
+      },
+      "info": {
+        "background": "#939598",
+        "text": "#FFFFFF"
+      }
+    },
+    "forms": {
+      "input": {
+        "border": "#939598",
+        "focusBorder": "#D52B1E",
+        "background": "#FFFFFF",
+        "borderRadius": "4px"
+      }
+    },
+    "typography": {
+      "fontFamily": "'Helvetica Neue', 'Arial', sans-serif",
+      "fallback": "En caso de no tener Swis 721, usar Helvetica Neue o Arial como alternativa",
+      "headings": {
+        "color": "#D52B1E",
+        "weight": "700"
+      },
+      "body": {
+        "color": "#333333",
+        "weight": "400"
+      },
+      "secondary": {
+        "color": "#939598",
+        "weight": "400"
+      }
+    },
+    "spacing": {
+      "base": "8px",
+      "description": "Usar múltiplos de 8px para mantener consistencia visual"
+    }
+  }
+}
